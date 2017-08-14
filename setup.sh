@@ -74,5 +74,6 @@ brew cask install clipy
 brew cask install coteditor
 brew cask install amazon-drive
 brew cask install cmd-eikana
+brew cask install hosts
 
 mas install 497799835 # xcode
