@@ -41,7 +41,7 @@ function! s:LoadBundles()
   NeoBundle 'tpope/vim-surround'
   NeoBundle 'scrooloose/nerdtree'
   NeoBundle 'ctrlpvim/ctrlp.vim'
-  NeoBundle 'altercation/vim-colors-solarized'
+  NeoBundle 'ConradIrwin/vim-bracketed-paste'
 endfunction
 
 " NeoBundle がインストールされているなら LoadBundles() を呼び出す
@@ -120,4 +120,5 @@ nnoremap <silent><C-e> :NERDTreeToggle<CR>
 syntax enable
 set background=dark
 colorscheme solarized
+let g:solarized_termcolors=256
 

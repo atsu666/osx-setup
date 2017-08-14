@@ -7,7 +7,7 @@
 
 ## terminal color
 
-* terminal > ⌘, > import ~/solarized/osx-terminal.app-colors-solarized/xterm-256color/Solarized Dark xterm-256color.terminal
+* terminal > ⌘, > import ~/solarized.git/Solarized Dark.terminal
 
 ## tmux
 
